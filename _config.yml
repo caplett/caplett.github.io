@@ -16,20 +16,20 @@ description: Best Blog Theme
 avatar: https://pythonprogramming.org/images/python.svg
 footer-links:
   dribbble:
-  email: mail@caplett.com
-  #facebook: "loyalseo"
+  email: pythonprogrammingorg@gmail.com
+  facebook: "loyalseo"
   flickr:
-  github: caplett
+  github: pythonprogramm9
   instagram:
   linkedin:
   pinterest:
   rss:
-  twitter: 
+  twitter: pythonprogramm9
   stackoverflow:
   youtube:
 disqus: ranvir-singh
-#google_analytics: UA-73349527-12
-#url: https://ranvir.xyz
+google_analytics: UA-73349527-12
+url: https://ranvir.xyz
 baseurl: "/best"
 permalink: "/:title/"
 version: v1.2.0
