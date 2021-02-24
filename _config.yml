@@ -29,8 +29,8 @@ footer-links:
   youtube:
 disqus: ranvir-singh
 google_analytics: UA-73349527-12
-url: https://ranvir.xyz
-baseurl: "/best"
+url: "caplett.github.io/"
+baseurl: ""
 permalink: "/:title/"
 version: v1.2.0
 sidebar: true
